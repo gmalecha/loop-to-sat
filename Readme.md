@@ -1,14 +1,13 @@
 Loop To SAT
 ===========
 
-This program solves puzzles in the loop game by converting them to SAT formulas.
+This program solves puzzles in the [loop game](https://play.google.com/store/apps/details?id=com.balysv.loop) by converting them to SAT formulas.
 
 
 Requirements
 ------------
 
-This program requires that a recent version of [z3]() be available on your path.
-
+This program requires that a recent version of [z3](https://github.com/Z3Prover/z3) be available on your path.
 
 Usage
 -----
